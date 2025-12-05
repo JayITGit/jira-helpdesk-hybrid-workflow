@@ -24,6 +24,27 @@ The lab simulates a common MSP-style support request where a user cannot sign in
 
 ---
 
+# Jira Skills Showcased
+- Built a functional IT service desk project from scratch  
+- Created organized request types and portal groups  
+- Managed queues and ticket assignments  
+- Used internal notes for technical work and public comments for end users  
+- Followed structured workflow transitions to keep the ticket moving  
+- Maintained a clear audit trail at every stage  
+
+---
+
+# Workflow Skills Demonstrated
+- Used a clean workflow (To Do, In Progress, Pending, Done)  
+- Added internal notes whenever work was performed  
+- Used Pending only when waiting on the user  
+- Verified the fix through AD and Entra ID before closing  
+- Closed the ticket only after user confirmation and technical verification  
+
+These reflect real help desk and MSP standards for ticket handling.
+
+---
+
 # Lab Walkthrough
 
 ## Phase 1: Jira Service Management Setup
